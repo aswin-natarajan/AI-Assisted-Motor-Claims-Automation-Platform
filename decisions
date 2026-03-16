@@ -1,0 +1,18 @@
+## Decision: Rules + AI Instead of Full AI
+
+### Options Considered
+1. Fully AI-driven decisions
+2. Rules-based only
+3. Rules + AI assist
+
+### Decision
+Rules + AI assist
+
+### Rationale
+- Regulatory comfort
+- Explainability
+- Faster MVP delivery
+
+### Trade-offs
+- Less automation initially
+- More configuration effort
