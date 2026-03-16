@@ -1,0 +1,24 @@
+## Functional Requirements
+
+### Claim Submission
+- Upload photos and documents
+- Mandatory field validation
+- Duplicate detection
+
+### Claim Triage
+- Rule-based classification
+- AI confidence scoring
+- Manual override option
+
+### Dashboard
+- Claims queue by priority
+- Fraud risk indicators
+- SLA timers
+
+---
+
+## Non-Functional Requirements
+- Response time < 3 seconds
+- Explainable AI decisions
+- Audit logs for compliance
+``
