@@ -1,14 +1,26 @@
-## Problem Statement
+## Problem Context
+Motor insurance is the highest-volume line of business in many Asian markets.
 
-Motor claims processing is slow, manual, and inconsistent.
+Despite digital policy sales, claims remain largely manual.
 
-### Current Challenges
-- Claims take 7–14 days to process
-- Heavy reliance on manual document checks
-- High operational cost
-- Poor visibility for policyholders
+---
 
-### Why This Matters
-- Impacts customer satisfaction
-- Increases fraud and leakage risk
-- Limits scalability for insurers
+## Core Problems Identified
+1. Manual document review slows processing
+2. Claims officers spend time on low-complexity claims
+3. Fraud detection happens too late
+4. Policyholders lack visibility on claim status
+
+---
+
+## Evidence (Assumptions / Industry Observations)
+- 60–70% of motor claims are low-complexity
+- Claims officers handle 30–50 cases per day
+- Simple claims still take days due to queueing
+
+---
+
+## Why This Problem Matters
+- Direct impact on customer satisfaction
+- Operational cost pressure for insurers
+- Competitive differentiation for digital-first insurers
