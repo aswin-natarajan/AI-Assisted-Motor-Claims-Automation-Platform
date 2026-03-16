@@ -1,0 +1,24 @@
+## Current State Journey (As-Is)
+
+1. Accident occurs
+2. Policyholder submits documents via email
+3. Claims officer manually checks documents
+4. Missing info requested
+5. Claim queued for review
+6. Assessment and approval
+7. Payout
+
+⏱ Total time: 7–14 days
+
+---
+
+## Future State Journey (To-Be)
+
+1. Policyholder submits claim via portal
+2. System validates documents instantly
+3. Claim auto-classified (simple / complex)
+4. Simple claims fast-tracked
+5. Policyholder sees live status
+
+⏱ Target time: 3–5 days
+``
